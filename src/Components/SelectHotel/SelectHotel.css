@@ -1,0 +1,19 @@
+.hotelh1 {
+    font-size: 28px;
+    padding-top: 10px;
+}
+
+.hotelp {
+    font-size: 22px;
+    color: rgb(105, 105, 105);
+    margin: 0;
+}
+
+.hotelsCard {
+    margin: 0 0 60px 20px;
+    /* border-bottom: 1px solid rgb(187, 187, 187); */
+}
+
+.bottomMargin {
+    margin-bottom: 50px;
+}
